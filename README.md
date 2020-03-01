@@ -19,5 +19,5 @@
 
 Не забываем создать базу:
 ```sql
-CREATE DATABASE dbname;
+CREATE DATABASE inter_dev;
 ```
